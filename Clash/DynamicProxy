@@ -1,0 +1,9 @@
+# > Scholar 用于直连的网址
+# > - DOMAIN-SUFFIX,myprivatevideo.store
+
+## 域名条目
+DOMAIN-SUFFIX,rustdesk.com
+
+
+## IP条目
+## IP-CIDR,66.103.222.163/32,no-resolve
