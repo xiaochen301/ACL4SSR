@@ -1,0 +1,10 @@
+# > Scholar 用于直连的网址
+# > - DOMAIN-SUFFIX,myprivatevideo.store
+DOMAIN-SUFFIX,myprivatehost.top
+DOMAIN-SUFFIX,myprivatevideo.store
+DOMAIN-SUFFIX,1998411.xyz
+
+IP-CIDR,66.103.222.163/32,no-resolve
+IP-CIDR,142.171.43.21/32,no-resolve
+IP-CIDR,45.207.211.101/32,no-resolve
+IP-CIDR,74.48.81.236/32,no-resolve
